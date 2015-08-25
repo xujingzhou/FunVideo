@@ -4,4 +4,4 @@ A series of embeddable theme into a video, include animation and voice. Tested o
 Johnny Xu(徐景周)  
 Future Studio  
 
-![Demo](https://github.com/xujingzhou/FunVideo/blob/master/Resource/Demo/EN_640x1136.png)
+<img src="https://github.com/xujingzhou/FunVideo/blob/master/Resource/Demo/EN_640x1136.png" width = "300" height = "400" alt="Demo" align=center />
